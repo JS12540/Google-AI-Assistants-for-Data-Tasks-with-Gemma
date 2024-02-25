@@ -21,3 +21,4 @@
 - **Low-Rank Matrix:** A matrix where the rank (number of linearly independent dimensions) is relatively small compared to the total number of dimensions.
 - **Role in LoRA:** Constrains the fine-tuning process to prevent drastic changes to the model's overall understanding while adapting to new tasks.
 
+For more detailed information, you can also refer to the [LoRA documentation](https://huggingface.co/docs/diffusers/main/en/training/lora) on Hugging Face's website.
